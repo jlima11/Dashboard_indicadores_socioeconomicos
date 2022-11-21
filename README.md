@@ -4,4 +4,8 @@ Dados extraídos so SEBRAE
 <h1> Página inicial </h1>
 <p><img src="Power BI Desktop 20_11_2022 22_55_32.png")</p>
 <h1> Página sobre indicadores econômicos </h1>
-![image](https://user-images.githubusercontent.com/84250861/202945076-c2249bcc-4c7c-4750-adc7-6f04e5e89190.png)
+<p><img src="")</p>
+<h1> Página sobre indicadores sociais </h1>
+<p><img src="")</p>
+<h1> Página sobre indicadores populacionais </h1>
+<p><img src="")</p>
