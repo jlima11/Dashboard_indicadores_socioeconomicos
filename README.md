@@ -8,4 +8,4 @@ Dados extraídos so SEBRAE
 <h1> Página sobre indicadores sociais </h1>
 <p><img src="Power BI Desktop 20_11_2022 22_59_15.png")</p>
 <h1> Página sobre indicadores populacionais </h1>
-<p><img src="")</p>
+<p><img src="Power BI Desktop 20_11_2022 22_59_23.png")</p>
